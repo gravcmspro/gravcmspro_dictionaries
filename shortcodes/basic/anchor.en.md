@@ -4,7 +4,7 @@
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_SHORTCODE_TITLE
-  D_ANCHOR_SHORTCODE_DESCRIPTION
+  Adds an invisible anchor placeholder, revealed when the maouse is placed over it. This element is very useful to link a specific page section, for example **https://example.com/#section**
 
   D_CODE
 

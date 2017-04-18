@@ -28,15 +28,3 @@
 
   If you need to use a color not used in the theme, for example the **red** one, simply replace that class with the color class name, so red in this case.
 [/m-dictionary-item]
-
-[m-dictionary-item name="D_ANCHOR_SHORTCODE_DESCRIPTION"]
-  Adds an invisible anchor placeholder, revealed when the maouse is placed over it. This element is very useful to link a specific page section, for example **https://example.com/#section**
-[/m-dictionary-item]
-
-[m-dictionary-item name="D_TAG_SHORTCODE_DESCRIPTION"]
-  This shortcode renders an arbitrary html tag.
-[/m-dictionary-item]
-
-[m-dictionary-item name="D_GRID_SHORTCODE_DESCRIPTION"]
-  This shortcode implements the Materializer Grid, so you can design your layout straight in mardkdown.
-[/m-dictionary-item]

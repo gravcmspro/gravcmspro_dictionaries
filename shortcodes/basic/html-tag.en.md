@@ -4,7 +4,7 @@
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_SHORTCODE_TITLE
-  D_TAG_SHORTCODE_DESCRIPTION
+  This shortcode renders an arbitrary html tag.
 
   [m-tag tag="div"]
     ### Title

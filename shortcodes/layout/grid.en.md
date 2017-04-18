@@ -4,8 +4,8 @@
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_SHORTCODE_TITLE
-  D_GRID_SHORTCODE_DESCRIPTION
-  
+  This shortcode implements the Materializer Grid, so you can design your layout straight in mardkdown.
+
   [m-grid container="false"]
     [m-grid-row]
       [m-grid-col attributes="class:s12 m6 l6"]
