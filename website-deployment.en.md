@@ -10,7 +10,7 @@
 
   There are many ways to deploy a website, the best one in our opinion is using git. By default our all projects are managed through git, so leveraging it for deploying our websites was a natural step.
   ==|
-  
+
   Now we will explain our deploying strategy so you can understand if it could fit well for you too.
 
   ### How we can use git for deploying a website
@@ -19,7 +19,7 @@
 
   In detail, you work on your website on your laptop and you push your changes to your remote git repository. When you are done, you go to your remote server and then you pull the changes from the remote repository and your site is immediately updated.
 
-  Working this way, your previous website version remains the active one until the pulling process has completed. When the operation is done, the new website version take place transparently without any break or downtime.
+  Working this way, your previous website version remains the active one until the pulling process has completed. When the operation is done, the new website version takes place transparently without any break or downtime.
 
   ### Automate the deploy process
 
