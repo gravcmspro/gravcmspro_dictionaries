@@ -6,9 +6,9 @@
   |==
   ## Components are a combination of shortcodes
 
-  Components are a convenient way to pack a combination of shortcodes, with the pourpose of building complex structures, you can reuse later in all your websites. For example we have a blurred jumbotron with a transparent panel placed into the middle center and a button to scroll down to a specific page section.
+  Components are a convenient way to pack a combination of shortcodes, with the purpose of building complex structures, you can reuse later in all your websites. For example, we have a blurred jumbotron with a transparent panel placed into the middle center and a button to scroll down to a specific page section.
   ==|
-  The required shortcodes to render an HTML component like that, is the following one:
+  The required shortcodes to render an HTML component like that is the following example:
 
   [raw]
   ```
@@ -42,9 +42,9 @@
   - [m-icon icon="fa-check"][/m-icon] In the **user/components** folder
   - [m-icon icon="fa-check"][/m-icon] In the Material plugin
 
-  Material plugin lookes for a component following the given order, so the first found wins.
+  The Material plugin looks for a component following the given order, so the first one found wins.
 
-  > Obviously you must not add a component of yours under the Material plugin, because it will be erased when a new release take place.
+  > Obviously, you must not add a component of yours under the Material plugin, because it will be erased when a new release takes place.
 
   Next, just add your code into that file and replace the properties you want to pass from the calling component. There are no limits to properties number. The shortcode content is always defined by the **<<m_content>>** placeholder.
 
@@ -86,7 +86,7 @@
 
   ### Component items
 
-  Complex components might require to define more than one single item, for example look at this code to define a promo table, where are defined three items:
+  Complex components might require defining more than one single item, for example, look at this code to define a promo table, where three items are defined:
 
   [raw]
   ```
@@ -164,7 +164,7 @@
   - [m-icon icon="fa-check"][/m-icon] M_MAIN_CONTENT.M_EXTRA_ATTRIBUTES
   - [m-icon icon="fa-check"][/m-icon] M_MAIN_CONTENT.M_CONTENT
 
-  Content is always defined by **<<m_content>>** placeholder and there is no limit to number of items defined, but every property must be declared in the calling shortcode. When you do not require to define a property just pass a blank string, for example **/m_extra_attributes/=""**.
+  Content is always defined by **<<m_content>>** placeholder and there is no limit to a number of items defined, but every property must be declared in the calling shortcode. When you do not require to define a property just pass a blank string, for example, **/m_extra_attributes/=""**.
 
   To call that component use the following shortcode:
 
@@ -194,7 +194,7 @@
   ```
   [/raw]
 
-  So, every subitem is defined by the **m-component-item**.
+  Every subitem is defined by the **m-component-item**.
 
   ### Customization
 

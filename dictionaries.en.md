@@ -1,16 +1,16 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # Keep contens together and translate them easily using dictionaries
+  # Keep content together and translate them easily using dictionaries
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   |==
   ## Dictionaries, a Material plugin bonus feature
 
-  Dictionaries are a Material plugin bonus feature useful to keep contents together, instead of having them into pages shortcodes, as weel as translating them easily. Dictionaries are not bound to pages, so you can add as many contents as you need into them.
+  Dictionaries are a Material plugin bonus feature useful to keep contents together, instead of having them into pages shortcodes, as weel as translating them easily. Dictionaries are not bound to pages, so you can add as much content as needed. 
   ==|
   ### The dictionary file
 
-  Dictionaries are simple markdown files that live into the **user/dictionaries** folder. To define a dictionary just name the dictionay file using the following scheme:
+  Dictionaries are simple markdown files that live into the **user/dictionaries** folder. To define a dictionary just name the dictionary file using the following scheme:
 
   [raw]
   ```
@@ -18,7 +18,7 @@
   ```
   [/raw]
 
-  To create a dictionary entry item simple add a **m-dictionary-item** shortcode as follows:
+  To create a dictionary entry item simply add a **m-dictionary-item** shortcode as follows:
 
   [raw]
   ```
@@ -49,7 +49,7 @@
   ```  
   [/raw]
 
-  Next, to process the content, simple add the placeholder you defined:
+  Next, to process the content, simply add the placeholder you defined:
 
   [raw]
   ```
@@ -72,9 +72,9 @@
   Here you can see the shortcode that defines the toolbar of this website and the brand property is handled by the **<<d_brand>>** placeholder.
 
 
-  #### subfoders
+  #### subfolders
 
-  In order, to have a better dictionaries organization, you can save those files in a subfoder, placed under the main **dictionaries** folders. Next, to use those dictionaries, you just call them as follows:
+  In order, to have a better dictionaries organization, you can save those files in a subfolder, placed under the main **dictionaries** folders. Next, in order to use those dictionaries, you just call them as follows:
 
   [raw]
   ```
@@ -88,7 +88,7 @@
 
   ### Multi language websites
 
-  In multi languages websites you might need to share the same contents through the same page for each language. In this situation, simply create a dictionary as usual but use the **all** token instead the language name as follows:
+  In multi languages websites, you might need to share the same content through the same pages for each language. In this situation, simply create a dictionary as usual but use the **all** token instead of the language name as follows:
 
   [raw]
   ```
