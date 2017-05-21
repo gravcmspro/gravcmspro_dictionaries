@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Icon circled" shortcode
+  # "Icon circled" shortcode (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
@@ -80,7 +80,7 @@
   [m-clipboard target-id="fontawesome-code" button-label="Copy to clipboard" icon="content_copy" icon-attributes="class:left"][/m-clipboard]
 
   ### Bordered icon
-  
+
   [m-icon-circle icon="android" size="medium" bordered="true"]Settings[/m-icon-circle]
 
   [m-tag tag="div" attributes="id:mdi-bordered"]

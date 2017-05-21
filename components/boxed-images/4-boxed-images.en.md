@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "4 boxed images" component
+  # "4 boxed images" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]

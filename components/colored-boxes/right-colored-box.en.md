@@ -1,18 +1,10 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Right colored box" component
+  # "Right colored box" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_COMPONENT
 
-  [m-help]
-    Main component properties
-    M_COLOR: Defines the size for all the item's columns
-    M_ATTRIBUTES: Adds html attributes to element. Example attributes="class: foo, rel=bar"
-
-    Item component properties
-    M_ATTRIBUTES: Adds html attributes to element. Example attributes="class: foo, rel=bar"
-  [/m-help]
   [m-component component="colored-box" folder="colored-boxes" M_COLOR="blue-grey" M_ATTRIBUTES=""]
     [m-component-item name="M_BOX_1" M_ATTRIBUTES="class:l7 m7 s12 box-large padding-large white"]
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

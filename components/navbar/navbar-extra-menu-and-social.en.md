@@ -1,23 +1,10 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Navbar with address and social buttons" component
+  # "Navbar with address and social buttons" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_COMPONENT
 
-  [m-help]
-    Main component properties
-    M_FIXED: When true contains and centers the component grid
-    M_BRAND_NAME: defines the brand as a text
-    M_BRAND_ALIGN: defines the brand alignment. It accepts the left, center or right values
-    M_BRAND_URL: Defines the brand element url. When empty link to website homepage
-    M_BRAND_URL_ATTRIBUTES: adds html attributes to brand link. Example attributes="class: foo, rel=bar"
-    M_BRAND_IMAGE: defines the brand image
-    M_BRAND_IMAGE_ATTRIBUTES: adds html attributes to element. Example attributes="class: foo, rel=bar". This property works only when brand_image property is defined
-
-  Item component properties
-    M_ATTRIBUTES: Adds html attributes to element. Example attributes="class: foo, rel=bar"
-  [/m-help]
   [m-component component="navbar-address-and-social" folder="navbar" M_FIXED="false" M_BRAND_NAME="ACME ltd." M_BRAND_ALIGN="left" M_BRAND_URL="#" M_BRAND_URL_ATTRIBUTES="" M_BRAND_IMAGE="" M_BRAND_IMAGE_ATTRIBUTES=""]
     [m-component-item name="M_ADDRESS_ITEM" M_ATTRIBUTES="class:s12 m6 l6 padding-left-small inline-navigation-bordered"]
       [m-tag tag="ul"]

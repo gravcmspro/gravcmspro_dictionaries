@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Rich image" shortcode
+  # "Rich image" shortcode (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]

@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Right inline picture with text" component
+  # "Right inline picture with text" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]

@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Two background pictures with text first left" component
+  # "Two background pictures with text first left" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]

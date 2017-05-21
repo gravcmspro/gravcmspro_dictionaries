@@ -1,10 +1,10 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # Grav CMS Pro, probably the best solution to design professional websites
+  # GravCMS Pro, probably the best solution to design professional websites
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_INTRO_1"]
   ### Build on the shoulder of giants
-  **Grav CMS Pro** provides the best solutions to develop professional websites based on [Grav Content Management System application](https://getgrav.org), nomined as [best Open Source CMS](https://www.cmscritic.com/awards/) in 2016, and [Materialize](http://materializecss.com/), the modern responsive front-end framework based on [Google Material Design](https://material.io/guidelines/) guidelines.
+  **GravCMS Pro** provides the best solutions to develop professional websites based on [Grav Content Management System application](https://getgrav.org), nomined as [best Open Source CMS](https://www.cmscritic.com/awards/) in 2016, and [Materialize](http://materializecss.com/), the modern responsive front-end framework based on [Google Material Design](https://material.io/guidelines/) guidelines.
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_INTRO_2"]
@@ -21,7 +21,7 @@
 
 
 [m-dictionary-item name="D_CENTRE_TITLE"]
-  ## Grav CMS Pro presents Centre [m-link link-attributes="class: opaque opaque-reveal, name:gravcmspro" icon="fa-link fa-flip-horizontal"][/m-link]
+  ## GravCMS Pro presents Centre [m-link link-attributes="class: opaque opaque-reveal, name:gravcmspro" icon="fa-link fa-flip-horizontal"][/m-link]
 
   ---
 
@@ -238,6 +238,10 @@
 
 [m-dictionary-item name="D_MATERIAL_PLUGIN"]
   Material plugin
+[/m-dictionary-item]
+
+[m-dictionary-item name="D_FULL_SHORTCODES"]
+  Full shortcodes and components availability
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_WARMUP"]

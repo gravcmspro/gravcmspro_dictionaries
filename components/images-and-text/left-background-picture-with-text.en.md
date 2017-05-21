@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Left background picture with text" component
+  # "Left background picture with text" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
@@ -91,7 +91,7 @@
   [m-clipboard target-id="code-no-vertical-align" button-label="Copy to clipboard" icon="content_copy" icon-attributes="class:left"][/m-clipboard]  
 
   D_CELL_COLOR
-  
+
   [m-component component="left-background-picture-with-text" folder="images-and-text" M_IMAGE="image.jpg" M_PATH="/images" M_BOX_SIZE="box-medium" M_ATTRIBUTES="" M_ROW_ATTRIBUTES="class:box-medium box-bg-primary text-full-white l-vertical-align"  M_LEFT_COLUMN_ATTRIBUTES="class: s12 m12 l6 no-padding"  M_RIGHT_COLUMN_ATTRIBUTES="class: s12 m12 l6"]
     [m-tag tag="div" attributes="class:padding-left-right-medium"]
       ### Lorem ipsum dolor

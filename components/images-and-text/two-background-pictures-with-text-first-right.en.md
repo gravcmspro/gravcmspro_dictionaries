@@ -1,22 +1,10 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Two background pictures with text first left" component
+  # "Two background pictures with text first left" component (PRO)
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_COMPONENT
 
-  [m-help]
-    Main component properties
-    M_ATTRIBUTES: Adds html attributes to element. Example attributes="class: foo, rel=bar"
-    Item component properties
-    M_IMAGE_NAME: The image name with the extension. Set a blank value for no image
-    M_IMAGE_PATH: The image directory
-    M_BOX_SIZE: Defines the size for all the item's boxes. This property accepts the following values:box-ultra-tiny, box-tiny, box-small, box-medium, box-large, box-huge
-    M_ATTRIBUTES: Adds extra html attributes to class element. to add an extra foo class and a new rel attribute, you can define this parameter as follows: M_EXTRA_ATTRIBUTES="foo, rel=bar
-    M_ROW_ATTRIBUTES: Adds html attributes to the item's grid row
-    M_LEFT_COLUMN_ATTRIBUTES: Adds html attributes to the left grid column
-    M_RIGHT_COLUMN_ATTRIBUTES: Adds html attributes to the right grid column
-  [/m-help]
   [m-component component="two-background-pictures-with-text-first-right" folder="images-and-text" M_ATTRIBUTES=""]
     [m-component-item name="M_ITEM_1" M_IMAGE_NAME="image.jpg" M_IMAGE_PATH="/images" M_BOX_SIZE="box-medium" M_ATTRIBUTES="" M_ROW_ATTRIBUTES="class:box-bg-secondary text-full-white l-vertical-align flex-s" M_LEFT_COLUMN_ATTRIBUTES="class: s12 m12 l6 no-padding no-line-height"  M_RIGHT_COLUMN_ATTRIBUTES="class: s12 m12 l6 box-inverted"]
       [m-tag tag="div" attributes="class:padding-left-right-large"]
