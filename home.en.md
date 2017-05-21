@@ -1,10 +1,10 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # GravCMS Pro, probably the best solution to design professional websites
+  # Grav CMS Pro, probably the best solution to design professional websites
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_INTRO_1"]
   ### Build on the shoulder of giants
-  **GravCMS Pro** provides the best solutions to develop professional websites based on [Grav Content Management System application](https://getgrav.org), nomined as [best Open Source CMS](https://www.cmscritic.com/awards/) in 2016, and [Materialize](http://materializecss.com/), the modern responsive front-end framework based on [Google Material Design](https://material.io/guidelines/) guidelines.
+  **Grav CMS Pro** provides the best solutions to develop professional websites based on [Grav Content Management System application](https://getgrav.org), nomined as [best Open Source CMS](https://www.cmscritic.com/awards/) in 2016, and [Materialize](http://materializecss.com/), the modern responsive front-end framework based on [Google Material Design](https://material.io/guidelines/) guidelines.
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_INTRO_2"]
@@ -21,7 +21,7 @@
 
 
 [m-dictionary-item name="D_CENTRE_TITLE"]
-  ## GravCMS Pro presents Centre [m-link link-attributes="class: opaque opaque-reveal, name:gravcmspro" icon="fa-link fa-flip-horizontal"][/m-link]
+  ## Grav CMS Pro presents Centre [m-link link-attributes="class: opaque opaque-reveal, name:gravcmspro" icon="fa-link fa-flip-horizontal"][/m-link]
 
   ---
 
