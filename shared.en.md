@@ -1,21 +1,21 @@
-[m-dictionary-item name="D_SUBSCRIBE_FORM"]
-#### Get a 40% discount
-Subscribe now and get a 40% discount for the first year.
-[/m-dictionary-item]
+.jssocials-share-twitter .jssocials-share-link {
+  background: #00aced;
+  border: 1px solid #0099d4; }
+  .jssocials-share-twitter .jssocials-share-link:hover {
+    background: #0087ba; }
 
-[m-dictionary-item name="D_SOCIAL"]
-#### Get in touch
-Subscribe to our social channels and keep yourself informed about releases of new themes, promotions, news and more.
-[/m-dictionary-item]
+.jssocials-share-facebook .jssocials-share-link {
+  background: #3b5998;
+  border: 1px solid #344e86; }
+  .jssocials-share-facebook .jssocials-share-link:hover {
+    background: #2d4373; }
 
-[m-dictionary-item name="D_BRAND"]
-GravCmsPro
-[/m-dictionary-item]
+.jssocials-share-googleplus .jssocials-share-link {
+  background: #dd4b39;
+  border: 1px solid #d73925; }
+  .jssocials-share-googleplus .jssocials-share-link:hover {
+    background: #c23321; }
 
-[m-dictionary-item name="D_COPYRIGHT"]
-&copy; 2017 GravCmsPro
-
-[m-tag tag="div" attributes="class:author"]
-  A [Sito Web Per Tutti](https://sitowebpertutti.com "Realizzazione siti web professionali") Website
-[/m-tag]
-[/m-dictionary-item]
+.jssocials-share-linkedin .jssocials-share-link {
+  background: #007bb6;
+ 
