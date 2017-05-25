@@ -285,8 +285,8 @@
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_RELEASE"]
-  ### Release date May 2017{.h1-size}
-  **Centre** will be released on May 2017. Subscribe now and **get a 40% discount for the first year**, when it will be distributed.     
+  ### Centre PRO release date September 2017{.h1-size}
+  **Centre** free has been released on May 2017. Centre Pro will be released approximately on September 2017. Subscribe now and **get a 40% discount for the first year**, when it will be distributed.     
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_JOB"]

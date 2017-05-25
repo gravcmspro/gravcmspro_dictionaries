@@ -1,25 +1,17 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Modular collection" shortcode
+  # "Google map" shortcode
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
   D_SHORTCODE
-  [m-help]
-    Main component properties
-    id: Defines the html id attribute
-    zoom: Google map zoom attribute
-    center: Google map center attribute
-    Google map marker attributes
-    location: Google map marker location attribute
-    title: Google map marker title attribute
-  [/m-help]
+
   [m-google-map id="map" zoom="10" center="41.895639,12.493415"]
-    [m-google-marker location="41.895639,12.493415" title="Google map"]
+    [m-google-map-marker location="41.895639,12.493415" title="Google map"]
       **Meet Us**
       We are there!
-    [/m-google-marker]
+    [/m-google-map-marker]
   [/m-google-map]
-    
+
   D_CODE
 
   [m-tag tag="div" attributes="id:code"]
@@ -27,9 +19,19 @@
     ```
       [m-help]
         Main component properties
-        user-id: The user id provided with Google's code
+        id: Defines the html id attribute
+        zoom: Google map zoom attribute
+        center: Google map center attribute
+        Google map marker attributes
+        location: Google map marker location attribute
+        title: Google map marker title attribute
       [/m-help]
-      [m-google-analytics user-id="xxxxxxxxx"][/m-google-analytics]      
+      [m-google-map id="map" zoom="10" center="41.895639,12.493415"]
+        [m-google-map-marker location="41.895639,12.493415" title="Google map"]
+          **Meet Us**
+          We are there!
+        [/m-google-map-marker]
+      [/m-google-map]     
     ```
     [/raw]
   [/m-tag]  
