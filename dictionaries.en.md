@@ -6,7 +6,7 @@
   |==
   ## Dictionaries, a Material plugin bonus feature
 
-  Dictionaries are a Material plugin bonus feature useful to keep contents together, instead of having them into pages shortcodes, as weel as translating them easily. Dictionaries are not bound to pages, so you can add as much content as needed. 
+  Dictionaries are a Material plugin bonus feature useful to keep contents together, instead of having them into pages shortcodes, as weel as translating them easily. Dictionaries are not bound to pages, so you can add as much content as needed.
   ==|
   ### The dictionary file
 
@@ -72,7 +72,7 @@
   Here you can see the shortcode that defines the toolbar of this website and the brand property is handled by the **<<d_brand>>** placeholder.
 
 
-  #### subfolders
+  #### Subfolders
 
   In order, to have a better dictionaries organization, you can save those files in a subfolder, placed under the main **dictionaries** folders. Next, in order to use those dictionaries, you just call them as follows:
 

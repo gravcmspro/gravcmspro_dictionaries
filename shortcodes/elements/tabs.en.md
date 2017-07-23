@@ -1,5 +1,5 @@
 [m-dictionary-item name="D_HEADER_JUMBOTRON"]
-  # "Modular collection" shortcode
+  # "Tabls" shortcode
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_MAIN_CONTENT"]
