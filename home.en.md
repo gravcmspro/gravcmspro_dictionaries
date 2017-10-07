@@ -286,7 +286,7 @@
 
 [m-dictionary-item name="D_RELEASE"]
   ### Centre PRO release date November 2017{.h1-size}
-  **Centre** free version will be released on July 2017, while Centre Pro will be released approximately on November 2017. Subscribe now and **get a 40% discount for the first year**, when it will be distributed.     
+  **Centre** free version will be released when it will be ready, while Centre Pro will be released in earlier 2018. Subscribe now and **get a 40% discount for the first year**, when it will be distributed.     
 [/m-dictionary-item]
 
 [m-dictionary-item name="D_JOB"]
