@@ -54,7 +54,7 @@
   - [m-icon icon="fa-check"][/m-icon] The main stylesheet file
   - [m-icon icon="fa-check"][/m-icon] The file that contains the variables
 
-  To get started, please reproduce the **material-theme/sass/lib** folder structure in your custom theme, then copy the **config.rb** file from the **material-theme/sass** directory, into the **sass** folder of your custom theme.
+  To get started, please reproduce the **centre-theme/sass/lib** folder structure in your custom theme, then copy the **config.rb** file from the **centre-theme/sass** directory, into the **sass** folder of your custom theme.
 
   Create a **material** folder under the **sass/lib** folder of your custom theme, then copy the **material-blue-pink.scss** and the **variables/_material_blue_pink_variables.scss** files, both into the **material** folder of your custom theme.
 
@@ -83,10 +83,10 @@
   [raw]
   ```
   @charset "UTF-8"; // Mixins
-  @import "./../../../material-theme/vendor/materialize-src/sass/components/mixins";
-  @import "./../../../material-theme/vendor/materialize-src/sass/components/color";
+  @import "./../../../centre-theme/vendor/materialize-src/sass/components/mixins";
+  @import "./../../../centre-theme/vendor/materialize-src/sass/components/color";
   @import "material_green_orange_variables";
-  @import "./../../../material-theme/sass/lib/material/variables/material_base";
+  @import "./../../../centre-theme/sass/lib/material/variables/material_base";
   ```
   [/raw]
 
